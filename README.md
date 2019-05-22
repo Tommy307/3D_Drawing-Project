@@ -1,2 +1,2 @@
-# Project_2_Making_Functional-image
-用c++编写函数作图程序
+# 3D-Drawing源码
+用c++编写的作图程序
