@@ -3,7 +3,7 @@
 
 采用html文件绘制函数图像   
 
-项目介绍请看3D.docx
+项目介绍请看[3D.docx](https://github.com/Tommy307/Pro2_3D_Drawing/blob/master/3D.docx)
 
 项目缩影及人员分工请看3D-Drawing.pptx
 
