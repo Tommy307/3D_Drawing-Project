@@ -12,6 +12,6 @@
 
 [源码](https://github.com/Tommy307/Pro2_3D_Drawing/blob/zlsteven-patch-1/3D-Drawing源码)在另一个分支中储存。 
 
-#说明：
+*说明：*
 ppt，doc以及视频均需要下载观看，给您造成不便，敬请谅解。
 
