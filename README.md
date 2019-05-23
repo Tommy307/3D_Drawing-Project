@@ -10,7 +10,8 @@
 
 >#### [源码](https://github.com/Tommy307/Pro2_3D_Drawing/blob/zlsteven-patch-1/3D-Drawing源码)在另一个分支中储存。   
 
-![图片](https://raw.githubusercontent.com/Tommy307/Pro2_3D_Drawing/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(165).png "完成的函数图像示例")
+![picture](https://raw.githubusercontent.com/Tommy307/Pro2_3D_Drawing/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(165).png "完成的函数图像示例")  
+
   
     
  
