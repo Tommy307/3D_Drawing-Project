@@ -1,5 +1,5 @@
 # Project_2_3D-Drawing
-### 用c++编写的函数作图程序,采用html文件绘制函数图像   
+### C++编写函数作图程序,采用SVG绘制函数图像   
   
   
 > #### 项目介绍请看[3D.docx](https://github.com/Tommy307/Pro2_3D_Drawing/blob/master/3D.docx)
@@ -8,8 +8,3 @@
 >#### [源码](https://github.com/Tommy307/Pro2_3D_Drawing/blob/zlsteven-patch-1/3D-Drawing源码)在另一个分支中储存。   
 
 !["z=x*y^2+y*x^2"](https://raw.githubusercontent.com/Tommy307/Pro2_3D_Drawing/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(165).png "z=x*y^2+y*x^2的三维图像")
-
-  
-    
- 
-### **说明：** ppt，doc以及视频均需要下载观看，给您造成不便，敬请谅解。
